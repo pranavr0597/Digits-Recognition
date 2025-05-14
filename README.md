@@ -7,7 +7,6 @@ This repository contains machine learning models for recognizing digits from ima
 We predict the number to be recognized and evaluate performance for predicting numbers. 
 
 ---
----
 ## 📈 Modeling Approach
 
 ---
