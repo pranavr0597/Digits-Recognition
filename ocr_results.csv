@@ -1,0 +1,73 @@
+Model,Actual,Prediction,Average Execution Time
+Tesseract,1,1.,0.2493
+Tesseract,2,2.,0.2493
+Tesseract,3,3.,0.2493
+Tesseract,4,4.,0.2493
+Tesseract,5,2.,0.2493
+Tesseract,6,6.,0.2493
+Tesseract,7,.,0.2493
+Tesseract,8,No Prediction,0.2493
+Tesseract,9,.,0.2493
+EasyOCR,1,1,6.9943
+EasyOCR,2,2,6.9943
+EasyOCR,3,3,6.9943
+EasyOCR,4,4,6.9943
+EasyOCR,5,5,6.9943
+EasyOCR,6,6,6.9943
+EasyOCR,7,7,6.9943
+EasyOCR,8,8,6.9943
+EasyOCR,9,9,6.9943
+docTR,1,1-,0.15397
+docTR,2,2 .,0.15397
+docTR,3,3 .,0.15397
+docTR,4,4 .,0.15397
+docTR,5,5 .,0.15397
+docTR,6,6 .,0.15397
+docTR,7,7.,0.15397
+docTR,8,8 .,0.15397
+docTR,9,9 .,0.15397
+trocr_large_handwritten,1,1-,2.524060245003784
+trocr_large_handwritten,2,2 .,2.524060245003784
+trocr_large_handwritten,3,3 .,2.524060245003784
+trocr_large_handwritten,4,4 .,2.524060245003784
+trocr_large_handwritten,5,5 .,2.524060245003784
+trocr_large_handwritten,6,6 .,2.524060245003784
+trocr_large_handwritten,7,7.,2.524060245003784
+trocr_large_handwritten,8,8 .,2.524060245003784
+trocr_large_handwritten,9,9 .,2.524060245003784
+trocr_large_printed,1,1,2.3500839699991047
+trocr_large_printed,2,2,2.3500839699991047
+trocr_large_printed,3,3,2.3500839699991047
+trocr_large_printed,4,4.,2.3500839699991047
+trocr_large_printed,5,5,2.3500839699991047
+trocr_large_printed,6,6,2.3500839699991047
+trocr_large_printed,7,7,2.3500839699991047
+trocr_large_printed,8,8,2.3500839699991047
+trocr_large_printed,9,9.,2.3500839699991047
+trocr_base_printed_handwritten,1,1,2.3645882449985947
+trocr_base_printed_handwritten,2,2,2.3645882449985947
+trocr_base_printed_handwritten,3,3,2.3645882449985947
+trocr_base_printed_handwritten,4,4.,2.3645882449985947
+trocr_base_printed_handwritten,5,5,2.3645882449985947
+trocr_base_printed_handwritten,6,6,2.3645882449985947
+trocr_base_printed_handwritten,7,7,2.3645882449985947
+trocr_base_printed_handwritten,8,8,2.3645882449985947
+trocr_base_printed_handwritten,9,9.,2.3645882449985947
+model_ocr_fp,1,1.,1.0905737349996343
+model_ocr_fp,2,2.,1.0905737349996343
+model_ocr_fp,3,3. 3 .,1.0905737349996343
+model_ocr_fp,4,4 .,1.0905737349996343
+model_ocr_fp,5,5.,1.0905737349996343
+model_ocr_fp,6,6.,1.0905737349996343
+model_ocr_fp,7,7.,1.0905737349996343
+model_ocr_fp,8,8 .,1.0905737349996343
+model_ocr_fp,9,9.,1.0905737349996343
+trocr_base_handwritten,1,1.,1.095260264998069
+trocr_base_handwritten,2,2.,1.095260264998069
+trocr_base_handwritten,3,3. 3 .,1.095260264998069
+trocr_base_handwritten,4,4 .,1.095260264998069
+trocr_base_handwritten,5,5.,1.095260264998069
+trocr_base_handwritten,6,6.,1.095260264998069
+trocr_base_handwritten,7,7.,1.095260264998069
+trocr_base_handwritten,8,8 .,1.095260264998069
+trocr_base_handwritten,9,9.,1.095260264998069
